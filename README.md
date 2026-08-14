@@ -58,7 +58,6 @@ My current work focuses on RTL design using SystemVerilog, RISC-V processor deve
 - RTL Verification
 - Computer Architecture
 - Embedded Systems
-- Computer Vision
 - Artificial Intelligence & Machine Learning
 
 ## GitHub Statistics
