@@ -1,16 +1,87 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abdulrafay7038/abdulrafay7038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=2500&color=58A6FF&center=true&vCenter=true&width=600&lines=Abdur+Rahman+Mirza)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+### Electrical Engineering | SystemVerilog | RISC-V | AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+I am an __Electrical Engineering student__ interested in Digital Design, FPGA development, RISC-V systems, and Artificial Intelligence. I enjoy working on projects that combine hardware design with software and machine learning concepts.
+
+My current work focuses on RTL design in SystemVerilog, FPGA-based digital systems, embedded programming in C, and AI/ML projects developed through coursework, personal projects, and my research internship at MEDS Lab.
+
+## Tech Stack
+<div align="center">
+
+### Hardware & Digital Design
+
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5E60CE?style=for-the-badge)
+![RTL Design](https://img.shields.io/badge/RTL_Design-455A64?style=for-the-badge)
+![FSM](https://img.shields.io/badge/FSM-607D8B?style=for-the-badge)
+![RISC--V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
+<br>
+
+### Programming Languages & Scripting
+
+![C](https://img.shields.io/badge/C-5C6BC0?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-EF6C00?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-2E7D32?style=for-the-badge&logo=gnubash&logoColor=white)
+<br>
+
+### EDA Tools
+
+![Verilator](https://img.shields.io/badge/Verilator-1565C0?style=for-the-badge)
+![GTKWave](https://img.shields.io/badge/GTKWave-424242?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Vivado-C62828?style=for-the-badge)
+<br>
+
+### Development Environment
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Spyder IDE](https://img.shields.io/badge/Spyder_IDE-CC0000?style=for-the-badge)
+
+</div>
+
+## Featured Projects
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| **[Radix-2 Booth Multiplier](https://github.com/AbdurRahman020/MEDS)** | Sequential 8-bit signed Booth multiplier implemented in SystemVerilog using radix-2 Booth recoding. | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5E60CE?style=flat-square) |
+| **[RISC-V Single-Cycle CPU](https://github.com/AbdurRahman020/RISCV-SingleCycle)** | Modular RV32I single-cycle processor featuring a datapath, controller, ALU, and register file. | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5E60CE?style=flat-square) ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square) |
+
+</div>
+
+## Currently Learning
+- RTL Verification
+- Computer Architecture
+- Embedded Systems
+- Computer Vision
+- Artificial Intelligence & Machine Learning
+
+## GitHub Statistics
+<div align="center">
+<img height="150em" src="https://streak-stats.demolab.com?user=AbdurRahman020&theme=transparent&hide_border=true"/>
+<img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdurRahman020&layout=compact&count=10&hide_border=true&theme=transparent&hide_title=true"/>
+</div>
+
+## Contribution Activity
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRahman020&theme=github-dark-dimmed&hide_border=true&bg_color=transparent&area=true"/>
+</div>
+
+
+## Let's Connect
+<div align="center">
+<a href="mailto:a.rahmanmirza20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/abdurrahmanmirza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
+
+<!---
+AbdurRahman020/AbdurRahman020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
