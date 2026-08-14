@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=2500&color=58A6FF&center=true&vCenter=true&width=600&lines=ABDUL+RAFAY)](https://git.io/typing-svg)
 
-### Electrical Engineering Student | Digital Systems| Computer Architecture | RISC-V | Machine Learning & Artificial Intelligence 
+### Digital Systems| Computer Architecture | RISC-V | Machine Learning & Artificial Intelligence 
 
 </div>
 
