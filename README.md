@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=2500&color=58A6FF&center=true&vCenter=true&width=600&lines=Abdul+Rafay)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=2500&color=58A6FF&center=true&vCenter=true&width=600&lines=ABDUL+RAFAY)](https://git.io/typing-svg)
 
 ### Electrical Engineering | SystemVerilog | RISC-V | AI/ML
 
