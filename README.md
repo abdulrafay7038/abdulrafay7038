@@ -34,7 +34,6 @@ My current work focuses on RTL design using SystemVerilog, RISC-V processor deve
 ![Vivado](https://img.shields.io/badge/Vivado-C62828?style=for-the-badge)
 ![Verilator](https://img.shields.io/badge/Verilator-1565C0?style=for-the-badge)
 ![GTKWave](https://img.shields.io/badge/GTKWave-424242?style=for-the-badge)
-
 <br>
 
 ### Development Environment
