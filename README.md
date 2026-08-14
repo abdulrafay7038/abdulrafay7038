@@ -30,10 +30,11 @@ My current work focuses on RTL design using SystemVerilog, RISC-V processor deve
 
 ### EDA Tools
 
+![QuestaSim](https://img.shields.io/badge/QuestaSim-1?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Vivado-C62828?style=for-the-badge)
 ![Verilator](https://img.shields.io/badge/Verilator-1565C0?style=for-the-badge)
 ![GTKWave](https://img.shields.io/badge/GTKWave-424242?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Vivado-C62828?style=for-the-badge)
-![QuestaSim](https://img.shields.io/badge/QuestaSim-1?style=for-the-badge)
+
 <br>
 
 ### Development Environment
@@ -50,7 +51,6 @@ My current work focuses on RTL design using SystemVerilog, RISC-V processor deve
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Radix-2 Booth Multiplier](https://github.com/AbdurRahman020/MEDS)** | Sequential 8-bit signed Booth multiplier implemented in SystemVerilog using radix-2 Booth recoding. | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5E60CE?style=flat-square) |
 | **[RISC-V Single-Cycle CPU](https://github.com/AbdurRahman020/RISCV-SingleCycle)** | Modular RV32I single-cycle processor featuring a datapath, controller, ALU, and register file. | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5E60CE?style=flat-square) ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square) |
 
 </div>
@@ -64,13 +64,13 @@ My current work focuses on RTL design using SystemVerilog, RISC-V processor deve
 
 ## GitHub Statistics
 <div align="center">
-<img height="150em" src="https://streak-stats.demolab.com?user=AbdurRahman020&theme=transparent&hide_border=true"/>
-<img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdurRahman020&layout=compact&count=10&hide_border=true&theme=transparent&hide_title=true"/>
+<img height="150em" src="https://streak-stats.demolab.com?user=abdulrafay7038&theme=transparent&hide_border=true"/>
+<img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdulrafay7038&layout=compact&count=10&hide_border=true&theme=transparent&hide_title=true"/>
 </div>
 
 ## Contribution Activity
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRahman020&theme=github-dark-dimmed&hide_border=true&bg_color=transparent&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrafay7038&theme=github-dark-dimmed&hide_border=true&bg_color=transparent&area=true"/>
 </div>
 
 
@@ -80,7 +80,3 @@ My current work focuses on RTL design using SystemVerilog, RISC-V processor deve
 <a href="https://www.linkedin.com/in/abdulrafay7038/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
-<!---
-AbdurRahman020/AbdurRahman020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
