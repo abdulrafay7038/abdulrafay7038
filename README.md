@@ -33,8 +33,7 @@ My current work focuses on RTL design using SystemVerilog, RISC-V processor deve
 ![Verilator](https://img.shields.io/badge/Verilator-1565C0?style=for-the-badge)
 ![GTKWave](https://img.shields.io/badge/GTKWave-424242?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-C62828?style=for-the-badge)
-![QuestaSim](https://img.shields.io/badge/Vivado-C62828?style=for-the-badge](https://img.shields.io/badge/QuestaSim-1?style=plastic
-)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-1?style=plastic)
 <br>
 
 ### Development Environment
