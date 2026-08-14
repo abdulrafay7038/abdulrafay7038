@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=2500&color=58A6FF&center=true&vCenter=true&width=600&lines=ABDUL+RAFAY)](https://git.io/typing-svg)
 
-### Electrical Engineering | SystemVerilog | RISC-V | AI/ML
+### Electrical Engineering Student | Digital Systems| Computer Architecture | RISC-V | Machine Learning & Artificial Intelligence 
 
 </div>
 
-I am an __Electrical Engineering student__ interested in Digital Design, FPGA development, RISC-V systems, and Artificial Intelligence. I enjoy working on projects that combine hardware design with software and machine learning concepts.
+I am an Electrical Engineering student interested in Digital Design, Computer Architecture, RISC-V, RTL Design, and AI Hardware. I enjoy designing and exploring processor architectures and digital systems, with a particular interest in bridging hardware design with real-world applications.
 
-My current work focuses on RTL design in SystemVerilog, FPGA-based digital systems, embedded programming in C, and AI/ML projects developed through coursework, personal projects, and my research internship at MEDS Lab.
+My current work focuses on RTL design using SystemVerilog, RISC-V processor development, FPGA-based digital systems, computer architecture, and hardware acceleration for AI/ML.
 
 ## Tech Stack
 <div align="center">
@@ -25,7 +25,6 @@ My current work focuses on RTL design in SystemVerilog, FPGA-based digital syste
 
 ![C](https://img.shields.io/badge/C-5C6BC0?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-EF6C00?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-2E7D32?style=for-the-badge&logo=gnubash&logoColor=white)
 <br>
 
@@ -34,6 +33,8 @@ My current work focuses on RTL design in SystemVerilog, FPGA-based digital syste
 ![Verilator](https://img.shields.io/badge/Verilator-1565C0?style=for-the-badge)
 ![GTKWave](https://img.shields.io/badge/GTKWave-424242?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-C62828?style=for-the-badge)
+![QuestaSim]([https://img.shields.io/badge/Vivado-C62828?style=for-the-badge](https://img.shields.io/badge/QuestaSim-1?style=plastic&logo=https%3A%2F%2Fdownloadly.ir%2Fsoftware%2Fengineering-specialized%2Fmentor-graphics-questasim%2F
+))
 <br>
 
 ### Development Environment
@@ -41,7 +42,6 @@ My current work focuses on RTL design in SystemVerilog, FPGA-based digital syste
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Spyder IDE](https://img.shields.io/badge/Spyder_IDE-CC0000?style=for-the-badge)
 
 </div>
