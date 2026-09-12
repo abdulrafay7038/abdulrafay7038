@@ -52,6 +52,8 @@ My current work focuses on RTL design using SystemVerilog, RISC-V processor deve
 | Project | Description | Tech |
 |---|---|---|
 | **[RISC-V Single-Cycle CPU](https://github.com/AbdurRahman020/RISCV-SingleCycle)** | Modular RV32I single-cycle processor featuring a datapath, controller, ALU, and register file. | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5E60CE?style=flat-square) ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square) |
+| **[MEDS-S1 RV64IMAC SoC](https://github.com/AbdurRahman020/RISCV-SingleCycle)** | Contributing to an open-source RV64IMAC SoC, including RTL development and verification of its interrupt subsystem. | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5E60CE?style=flat-square) ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square) |
+| **[RISC-V Pipelined Core](https://github.com/abdulrafay7038/RV32I-Pipeline-Core)** | 3-stage RV32I pipelined processor with a dynamic branch predictor, currently being upgraded to a 5-stage pipeline with hazard handling and forwarding. | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5E60CE?style=flat-square) ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square) |
 
 </div>
 
