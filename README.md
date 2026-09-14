@@ -6,7 +6,7 @@
 
 </div>
 
-I am an Electrical Engineering student interested in Digital Design, Computer Architecture, RISC-V, RTL Design, and AI Hardware. I enjoy designing and exploring processor architectures and digital systems, with a particular interest in bridging hardware design with real-world applications.
+I am an Electrical Engineering student at University of Engeneering and Technology, Lahore interested in Digital Design, Computer Architecture, RISC-V, RTL Design, and AI Hardware. I enjoy designing and exploring processor architectures and digital systems, with a particular interest in bridging hardware design with real-world applications.
 
 My current work focuses on RTL design using SystemVerilog, RISC-V processor development, FPGA-based digital systems, computer architecture, and hardware acceleration for AI/ML.
 
